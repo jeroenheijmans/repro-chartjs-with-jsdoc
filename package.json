@@ -1,0 +1,14 @@
+{
+  "name": "repro-chartjs-with-jsdoc",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "echo \"Open the index.html file in your browser directly or via an adhoc serve process\" && exit 1"
+  },
+  "author": "Jeroen Heijmans",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^4.4.0",
+    "chartjs-adapter-moment": "^1.0.1",
+    "moment": "^2.29.4"
+  }
+}
